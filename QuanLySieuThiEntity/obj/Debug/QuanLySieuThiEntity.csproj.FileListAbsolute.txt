@@ -1,0 +1,6 @@
+C:\Users\Admin\source\repos\hoadon\QuanLySieuThiEntity\bin\Debug\QuanLySieuThiEntity.dll
+C:\Users\Admin\source\repos\hoadon\QuanLySieuThiEntity\bin\Debug\QuanLySieuThiEntity.pdb
+C:\Users\Admin\source\repos\hoadon\QuanLySieuThiEntity\obj\Debug\QuanLySieuThiEntity.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\hoadon\QuanLySieuThiEntity\obj\Debug\QuanLySieuThiEntity.dll
+C:\Users\Admin\source\repos\hoadon\QuanLySieuThiEntity\obj\Debug\QuanLySieuThiEntity.pdb
+C:\Users\Admin\source\repos\hoadon\QuanLySieuThiEntity\obj\Debug\QuanLySieuThiEntity.csprojAssemblyReference.cache
